@@ -1,0 +1,83 @@
+
+2023-02-06 14:07:00  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:07:01  INFO Main: End of horse racing. Winner: Вишня
+2023-02-06 14:07:21  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:07:22  INFO Main: End of horse racing. Winner: Пегас
+2023-02-06 14:09:02  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:09:03  INFO Main: End of horse racing. Winner: Пегас
+
+2023-02-06 14:28:54 ERROR Hippodrome: Horses cannot be null.
+2023-02-06 14:34:06 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2023-02-06 14:34:06  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:34:07  INFO Main: End of horse racing. Winner: Лобстер
+2023-02-06 14:41:01 ERROR Horse: Name is blank
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Буцефал], скорость [2.4]
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Туз Пик], скорость [2.5]
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Зефир], скорость [2.6]
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Пожар], скорость [2.7]
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Лобстер], скорость [2.8]
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Пегас], скорость [2.9]
+2023-02-06 14:50:01 DEBUG Horse: Создание [Horse], имя [Вишня], скорость [3.0]
+2023-02-06 14:50:01 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2023-02-06 14:50:01  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:50:02  INFO Main: End of horse racing. Winner: Лобстер
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Буцефал], скорость [2.4]
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Туз Пик], скорость [2.5]
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Зефир], скорость [2.6]
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Пожар], скорость [2.7]
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Лобстер], скорость [2.8]
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Пегас], скорость [2.9]
+2023-02-06 14:52:04 DEBUG Horse: Создание [Horse], имя [Вишня], скорость [3.0]
+2023-02-06 14:52:04 DEBUG Hippodrome: Creating Hippodrome, there are [7] of horses
+2023-02-06 14:52:04  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:52:05  INFO Main: End of horse racing. Winner: Вишня
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Буцефал], speed [2.4]
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Туз Пик], speed [2.5]
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Зефир], speed [2.6]
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Пожар], speed [2.7]
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Лобстер], speed [2.8]
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Пегас], speed [2.9]
+2023-02-06 14:53:06 DEBUG Horse: Creating [Horse], name [Вишня], speed [3.0]
+2023-02-06 14:53:06 DEBUG Hippodrome: Creating Hippodrome, there are [7] of horses
+2023-02-06 14:53:06  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 14:53:07  INFO Main: End of horse racing. Winner: Вишня
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Буцефал], speed [2.4]
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Туз Пик], speed [2.5]
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Зефир], speed [2.6]
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Пожар], speed [2.7]
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Лобстер], speed [2.8]
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Пегас], speed [2.9]
+2023-02-06 15:05:14 DEBUG Horse: Creating [Horse], name [Вишня], speed [3.0]
+2023-02-06 15:05:14 DEBUG Hippodrome: Creating Hippodrome, there are [7] of horses
+2023-02-06 15:05:14  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 15:05:15  INFO Main: End of horse racing. Winner: Вишня
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Буцефал], speed [2.4]
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Туз Пик], speed [2.5]
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Зефир], speed [2.6]
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Пожар], speed [2.7]
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Лобстер], speed [2.8]
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Пегас], speed [2.9]
+2023-02-06 15:53:28 DEBUG Horse: Creating [Horse], name [Вишня], speed [3.0]
+2023-02-06 15:53:28 DEBUG Hippodrome: Creating Hippodrome, there are [7] of horses
+2023-02-06 15:53:28  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 15:53:29  INFO Main: End of horse racing. Winner: Вишня
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Буцефал], speed [2.4]
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Туз Пик], speed [2.5]
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Зефир], speed [2.6]
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Пожар], speed [2.7]
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Лобстер], speed [2.8]
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Пегас], speed [2.9]
+2023-02-06 15:58:27 DEBUG Horse: Creating [Horse], name [Вишня], speed [3.0]
+2023-02-06 15:58:27 DEBUG Hippodrome: Creating Hippodrome, there are [7] of horses
+2023-02-06 15:58:27  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 15:58:28  INFO Main: End of horse racing. Winner: Буцефал
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Буцефал], speed [2.4]
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Туз Пик], speed [2.5]
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Зефир], speed [2.6]
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Пожар], speed [2.7]
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Лобстер], speed [2.8]
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Пегас], speed [2.9]
+2023-02-06 15:58:37 DEBUG Horse: Creating [Horse], name [Вишня], speed [3.0]
+2023-02-06 15:58:37 DEBUG Hippodrome: Creating Hippodrome, there are [7] of horses
+2023-02-06 15:58:37  INFO Main: Beginning of horse racing. Quantity of participants: 7
+2023-02-06 15:58:38  INFO Main: End of horse racing. Winner: Пегас
